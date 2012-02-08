@@ -44,9 +44,9 @@ my family.
 4. I use a custom Aperture Name Format which defines the naming convention for this script to work.[^3]
 5. I export versions of the Aperture masters to a tmp directory.
 6. I use this script to import the photos to Evernote.
-----
-<!-- FootNotes -->
-
+  
+----  
+  
 [^1]:I actually reuse some of his code in this script  
 
 [^2]:An example of my export preset setting: [http://www.e0l.co/E23Q](http://www.e0l.co/E23Q)
