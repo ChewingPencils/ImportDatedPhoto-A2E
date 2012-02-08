@@ -1,7 +1,7 @@
-Title:	ImportDatedPhoto-A2E
-Author:	Sean Korzdorfer
-Date:	10:17:23 Fri Jan 27 2012
-Version:	1.0
+Title:	ImportDatedPhoto-A2E  
+Author:	Sean Korzdorfer  
+Date:	10:17:23 Fri Jan 27 2012  
+Version:	1.0  
 
 # Overview
 This script is inspired by Brett Kelly's [evernote-dated-photo package] which works great if you don't process the images with Aperture.[^1] Unfortunately, exported versions of Aperture 3 master photos do not retain the date-created EXIF data. Using Aperture's Image Date/Time Name Format, this script will create a note for each individual photo, and set created date of the note to the date the photo was taken.
@@ -44,7 +44,7 @@ my family.
 4. I use a custom Aperture Name Format which defines the naming convention for this script to work.[^3]
 5. I export versions of the Aperture masters to a tmp directory.
 6. I use this script to import the photos to Evernote.
-
+----
 <!-- FootNotes -->
 
 [^1]:I actually reuse some of his code in this script  
