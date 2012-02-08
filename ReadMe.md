@@ -43,7 +43,7 @@ my family.
 3. I use a custom Aperture Export Preset to resize the *versions* of the photo's I want to add to Evernote.[^2]
 4. I use a custom Aperture Name Format which defines the naming convention for this script to work.[^3]
 5. I export versions of the Aperture masters to a tmp directory.
-6. I use this script to import the photos to Evernote.
+6. I use this script to import the photos to Evernote.  
   
 ----  
   
